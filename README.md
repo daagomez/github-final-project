@@ -10,5 +10,5 @@ Output
    simple interest = p*t*r/100
 
 
-# Task-#.txt files
+# Task-#-URL.txt files
 Each file holds an URL for each of the task in the project
